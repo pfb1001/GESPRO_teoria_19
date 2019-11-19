@@ -5,7 +5,7 @@ Repositorio para gestionar el aprendizaje de conceptos de agilidad con SCRUM. Ta
 ## Grupos
 
 Integrantes:
-* [Carolina Pérez Gutierrez](https://github.com/cgp1003)
+* [Carolina Gutiérrez Pérez](https://github.com/cgp1003)
 * [Liviu Viorel Jula](https://github.com/ljx1002)
 * [Pablo Fernández Bravo](https://github.com/pfb1001)
 * [Rodrigo García Martín](https://github.com/rgm1004)
